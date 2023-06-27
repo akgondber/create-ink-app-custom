@@ -19,6 +19,8 @@ $ npx create-ink-app-custom --typescript ts-app
 $ ts-app
 ```
 
+![](media/demo.gif)
+
 
 [npm-image]: https://img.shields.io/npm/v/create-ink-app-custom.svg?style=flat
 [npm-url]: https://npmjs.org/package/create-ink-app-custom
