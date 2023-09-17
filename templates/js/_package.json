@@ -32,8 +32,8 @@
 		"eslint-plugin-react-hooks": "^4.6.0",
 		"import-jsx": "^5.0.0",
 		"ink-testing-library": "^3.0.0",
-		"prettier": "^2.8.8",
-		"xo": "^0.54.2"
+		"prettier": "^3.0.3",
+		"xo": "^0.56.0"
 	},
 	"ava": {
 		"environmentVariables": {
